@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Cors-Error
+Test to chck cors erros
+http://localhost:3000/pub/media/catalog/product/d/i/diet_coke_250ml.jpg
+http://localhost:3000/api/category/1247
