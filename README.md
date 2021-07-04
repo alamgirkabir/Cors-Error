@@ -72,10 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Cors-Error
-# Test to chck cors erros
-# After running the program test in the browser to check cors error
+After running the program, test in the browser to check cors error.
 
-#
 
-http://localhost:3000/pub/media/catalog/product/d/i/diet_coke_250ml.jpg
-http://localhost:3000/api/category/1247
+
+Check image: (http://localhost:3000/pub/media/catalog/product/d/i/diet_coke_250ml.jpg)
+
+Check api response: (http://localhost:3000/api/category/1247)
